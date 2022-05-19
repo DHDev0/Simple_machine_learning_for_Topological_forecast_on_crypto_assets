@@ -64,3 +64,5 @@ result = ml_presage_predict_generalize(dataset_global =[list_item1_same_len,list
                                 verbose=True)
 
 ```
+
+Idea: One could build a monte carlo simulation for portfolio optimization using probability of occurence associate with each k-mean clusters. Betting bot are also possible by using kelly criterion. Of course one could also do portfolio optimization using his suite of betting bot.
