@@ -1,3 +1,6 @@
+Finding clusters of invariant structure using k-means algorithm and generate forecast with the next structure having the highest probability of occurrence. Testing multiple machine learning simple model (without cloud pipeline). One can use any of the following model available |'DecisionTreeClassifier','RandomForestClassifier','SVC','KNeighborsClassifier','GaussianNB','MLPClassifier'| for machine learning.
+
+
 ##Install dependencies
 ```
 pip install -r /path/to/pip_requirment.txt
